@@ -2,4 +2,6 @@
     <string name="app_name">Fragment</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Фрагмент для отображения Понасенкова</string>
+    <string name="zeus">Фрагмент для отображения Зевса</string>
+    <string name="_2">фРАГ 2</string>
 </resources>
